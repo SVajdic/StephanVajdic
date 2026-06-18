@@ -27,11 +27,22 @@ End-to-end data pipeline for structured data modeling using Python and scikit-le
 
 [View Project](https://github.com/SVajdic/housing_price_ml)
 
+### Monte Carlo Portfolio Risk Simulator
+Simulation-based financial risk analysis tool using Python, NumPy, and Pandas
+
+- Built a Monte Carlo simulation engine to model future portfolio outcomes across multiple allocation strategies
+- Estimated historical log returns, annualized volatility, and asset covariance from market price data
+- Implemented correlated asset simulations using Geometric Brownian Motion and Cholesky decomposition
+- Calculated portfolio risk metrics including Value at Risk, Conditional Value at Risk, probability of loss, and maximum drawdown
+- Generated visualizations and CSV reports of comparing expected performance and downside risk
+
+[View Project] (https://github.com/SVajdic/portfolio_monte_carlo)
+
 ## Current Focus
 
-- Building additional data and simulation-based projects  
-- Strengthening Python and system-level development skills  
-- Exploring scalable and performance-oriented system design   
+- Building a portfolio of data, simulation, and systems-oriented Python projects
+- Strengthening Python, numerical computing, and system-level development skills
+- Applying statistical modeling, simulation, and performance-aware design to practical software projects 
 
 ## Contact
 
