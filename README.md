@@ -36,7 +36,7 @@ Simulation-based financial risk analysis tool using Python, NumPy, and Pandas
 - Calculated portfolio risk metrics including Value at Risk, Conditional Value at Risk, probability of loss, and maximum drawdown
 - Generated visualizations and CSV reports of comparing expected performance and downside risk
 
-[View Project] (https://github.com/SVajdic/portfolio_monte_carlo)
+[View Project](https://github.com/SVajdic/portfolio_monte_carlo)
 
 ## Current Focus
 
